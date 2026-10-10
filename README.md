@@ -93,7 +93,17 @@ Sua contribuição ajuda a manter o projeto e desenvolver futuras atualizações
 
 🔑 Como apoiar
 
-As instruções de pagamento e o QR Code Pix serão adicionados após a verificação dos dados de recebimento.
+📱 Escaneie o QR Code Pix
+
+Leia o QR Code abaixo com o aplicativo do seu banco para fazer uma contribuição voluntária.
+
+"QR Code Pix para apoiar o Something Is Wrong" (pix-apoio.png)
+
+- Valor: escolha o valor disponível no aplicativo do seu banco.
+- Apoio voluntário: não é necessário pagar para jogar.
+- Segurança: confira o nome do destinatário e o valor antes de confirmar o Pix.
+
+❤️ Obrigado por apoiar o desenvolvimento do Something Is Wrong!
 
 Antes de confirmar qualquer pagamento, confira o nome do destinatário e o valor no aplicativo do seu banco.
 
